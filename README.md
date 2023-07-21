@@ -15,8 +15,13 @@
 <br />
 
 ### Demo Screeshots
+![s1](https://github.com/GeekNinja24/grilli-master/assets/72194471/d16e32ff-eab4-4b13-8a29-9953c5fe7ee5)
+![s2](https://github.com/GeekNinja24/grilli-master/assets/72194471/ff15893d-66ea-4a95-9892-42a536747139)
+![s34](https://github.com/GeekNinja24/grilli-master/assets/72194471/868d995b-3346-43a9-960f-aea8294e5b45)
+![s3](https://github.com/GeekNinja24/grilli-master/assets/72194471/c88b01c6-9998-4b85-8cfa-f5d18df87fa4)
+![s4](https://github.com/GeekNinja24/grilli-master/assets/72194471/e791bfba-82b7-4d50-b06e-f5a9ed3fc9a5)
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 
 ### Prerequisites
 
